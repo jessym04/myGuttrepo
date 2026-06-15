@@ -6,4 +6,7 @@ A line I wrote on my local computer
 This is a line from RStudio. 
 
 This is a second line from RStudio. 
+
+This is a third line from RStudio. 
+
 >>>>>>> c612718 (Commit from RStudio)
